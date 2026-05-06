@@ -1,4 +1,4 @@
-\# Project 1: User Configuration Manager
+# Project 1: User Configuration Manager
 
 
 
@@ -6,33 +6,27 @@ A Python program that manages user application settings using dictionaries.
 
 
 
-\## What it does
+## What it does
 
 Implements a simple settings management system with four operations:
 
-\- \*\*Add\*\* a new setting (with duplicate protection)
-
-\- \*\*Update\*\* an existing setting
-
-\- \*\*Delete\*\* a setting by key
-
-\- \*\*View\*\* all current settings in a formatted output
+* **Add** a new setting
+* **Update** an existing setting
+* **Delete** a setting by key
+* **View** all current settings in a formatted output
 
 
 
-\## Concepts demonstrated
+## Concepts demonstrated
 
-\- Dictionary manipulation (add, update, delete, iterate)
-
-\- Tuple unpacking
-
-\- Input validation and error handling via return messages
-
-\- String formatting
+* Dictionary manipulation (add, update, delete, iterate)
+* Tuple unpacking
+* Input validation and error handling via return messages
+* String formatting
 
 
 
-\## Source
+## Source
 
-FreeCodeCamp - Python certification  
+FreeCodeCamp - Python certification
 
