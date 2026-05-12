@@ -1,3 +1,12 @@
-# fcc-python-certification
-This is the repo with the certification projects that I do for obtaining FCC Python certificate.
-Each project will have its separate subfolder, which contains a readme and a .py file. 
+# FCC-Python-Certification
+
+This is the repo with the certification projects that I do for obtaining the FCC Python certificate.
+Each project will have its own separate subfolder, which contains a README and a .py file.
+
+
+
+## Projects
+
+1. [User Configuration Manager](./project_01_user_configuration_manager/)
+2. [Budget App](./project_02_budget_app/)
+
